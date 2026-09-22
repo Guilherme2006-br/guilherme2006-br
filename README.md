@@ -14,15 +14,7 @@ Tenho 20 anos atualmente sou aluno de Engenharia de Software na Unicive
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme2006-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2006-br&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Guilherme2006-br&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme2006-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2006-br&layout=compact&langs_count=7&theme=dracula&v=1"/>
 </div>
