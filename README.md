@@ -1,10 +1,5 @@
 ## Seja bem vindo, me chamo Guilherme 
-Tenho 20 anos 
-Atualmente aluno de Engenharia de Software na Unicive
-
-### 🔭 O que eu ando fazendo:
-* Modelagem de banco de dados e programação SQL.
-* Desenvolvimento front-end com sites HTML, CSS e JavaScript multi-páginas.
+Tenho 20 anos atualmente sou aluno de Engenharia de Software na Unicive
 
 ### 🛠️ Minha Stack de Tecnologias:
 <div align="center">
