@@ -1,5 +1,7 @@
 ## Seja bem vindo, me chamo Guilherme 
-Tenho 20 anos atualmente sou aluno de Engenharia de Software na Unicive
+Um futuro Engenheiro de Software que adora juntar código, criatividade e cultura pop (principalmente Universo da Marvel, DC e animes). 
+
+Gosto de construir projetos que vão desde aplicações mobile temáticas e dinâmicas com o Frontend até à estruturação de bases de dados com MySQL e Python. Quando não estou a codar ou a testar novas integrações, provavelmente estou a pensar na próxima mecânica para aplicar num projeto prático.
 
 ### 🛠️ Minha Stack de Tecnologias:
 <div align="center">
